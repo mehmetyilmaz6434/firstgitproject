@@ -3,4 +3,5 @@ Version 2
 Version 3
 Mehmet branch.
 Mehmet branch 2.
-Mehmet branch şgit stash işlemi.
+Mehmet branch git stash işlemi.
+Github a dosya gönderiyoruz.
