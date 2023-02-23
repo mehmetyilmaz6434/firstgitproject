@@ -4,5 +4,7 @@ Version 3
 Mehmet branch.
 Mehmet branch 2.
 Mehmet branch git stash işlemi.
-Github a dosya gönderiyoruz.
-GitHub 3. gün ikinci deneme.
+Github'a dosya gönderiyoruz.
+GitHub 2. gün ikinci deneme.
+GitHub 4. gün ikinci deneme.
+
